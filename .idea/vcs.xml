@@ -2,8 +2,10 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/java-parameterized-test" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/qa_java" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/sprint7_" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sprint8_" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/sprint_" vcs="Git" />
   </component>
 </project>
